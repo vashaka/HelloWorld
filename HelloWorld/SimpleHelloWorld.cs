@@ -5,7 +5,7 @@
         public static string ReturnHelloWorld()
         {
             // TODO: Return string "Hello, world!";
-            return "";
+            return "Hello, world!";
         }
     }
 }
