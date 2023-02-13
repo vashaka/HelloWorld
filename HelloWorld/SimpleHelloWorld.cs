@@ -4,8 +4,8 @@
     {
         public static string ReturnHelloWorld()
         {
-            const string statement = "Hello, world!";
-            return statement;
+            // TODO: Return string "Hello, world!";
+            return "";
         }
     }
 }
