@@ -33,12 +33,6 @@ This is a beginner level task for practicing AutoCode tasks management. Translat
     * Click on the menu item - _Test\Run All Tests_.
     * Or use the defaul keyboard shortcut - _Ctrl+R, A_.
 
-## Save Your Work
-
-The solution code has no code tasks to complete. You can go to AutoCode portal, open the task page, and click on the "Check task" button.
-
-Again, there is no need to do any code changes in this task.
-
 
 ## See also
 
